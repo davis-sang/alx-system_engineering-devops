@@ -1,1 +1,1 @@
-***Shell basics,permissions***
+***Shell basics and permissions ***
