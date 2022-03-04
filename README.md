@@ -1,1 +1,1 @@
-Bash scripting tasks
+Shell basics : navigation and scripting
