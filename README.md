@@ -1,1 +1,1 @@
-Shell basics : navigation and scripting
+***Shell basics and permissions***
